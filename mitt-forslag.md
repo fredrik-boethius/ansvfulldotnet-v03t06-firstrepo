@@ -1,3 +1,3 @@
 # Mitt förslag
 
-Redigera den här filen på din branch. Skriv ett förslag på något du vill lägga till i klassens repo.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
