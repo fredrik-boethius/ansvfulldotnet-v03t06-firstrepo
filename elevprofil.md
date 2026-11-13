@@ -1,6 +1,6 @@
 # Min elevprofil
 
-Namn: Fyll i ditt namn här
+Namn: Fredrik Boëthius
 
 Det här vill jag lära mig om Git:
-Skriv en mening här.
+Lite mer avancerad day-2-day användning
